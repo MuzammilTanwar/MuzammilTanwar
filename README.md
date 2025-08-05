@@ -7,7 +7,7 @@ I am a cybersecurity professional with a growing specialization in red teaming, 
 ## Objective
 
 
-To leverage my foundational experience in offensive security, risk management, and security operations in a dynamic cybersecurity role—ideally within a Security Operations Center (SOC) where I can contribute to threat detection, incident response, and continuous improvement of organizational security posture while expanding my technical and professional expertise.
+To leverage my foundational experience in offensive security and additional interest in risk management, I am seeking a dynamic cybersecurity role where I can contribute to threat detection, incident response, and the continuous improvement of an organization's security posture, while expanding my technical and professional expertise.
 
 ## Skills
 
