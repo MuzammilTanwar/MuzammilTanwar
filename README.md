@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a cybersecurity professional with a growing specialization in red teaming, risk management, and security operations. Through a hands-on internship in penetration testing, I contributed to real-world vulnerability assessments, responsible disclosure processes, and the development of technical reports. My experience spans key offensive security methodologies and vulnerability assessment practices, with a strong emphasis on ethical conduct and practical application. I am recognized for my ability to distill complex technical findings into clear, actionable insights that align with organizational security objectives. With a collaborative approach and strong communication skills, I am dedicated to supporting secure, resilient systems and contributing to high-performing security teams.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
